@@ -1,0 +1,173 @@
+body {
+    background:url("http://nick.mostowich.com/res/mountainsnew.jpg") no-repeat !important;
+    background-attachment:fixed !important;
+}
+#ad-top {
+    display:none !important;
+}
+
+#content {
+    margin:0 !important;
+}
+.sz-header .container {
+    margin:70px auto 0 auto !important;
+}
+
+
+.container {
+    padding:0 !important;
+    margin: 5px auto 0 auto !important;
+    background:none !important;
+    box-shadow:none !important;
+    -webkit-box-shadow:none !important;
+    border:none !important;
+}
+
+
+#main-div {
+    width:100% !important;
+    margin-bottom:10px !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+.szi-header {
+    background: rgba (255,255,255,0.4);
+    border: 5px solid black !important;
+    border-radius: 5px !important;
+    margin-top:10px !important;
+}
+.sz-station-page .szi-header {
+    background: rgba(255,255,255,0.4) !important;
+}
+.sz-section {
+    background: rgba(200,200,200,0.5) !important;
+    border: 5px solid black !important;
+    border-radius: 5px !important;
+    margin-top:10px !important;
+}
+#side-div {
+    display:none !important;
+}
+#ad-bottom {
+    display:none;
+}
+
+
+/*NAV BAR*/
+.sz-header-fixed {
+    top:0 !important;
+    box-shadow:none !important;
+    padding:0 !important;
+    left:0 !important;
+    margin:0 !important;
+}
+
+.sz-header-fixed .sz-nav-main {
+    margin:0 !important;
+}
+
+.sz-nav {
+    position:fixed !important;
+    top:0 !important;
+    left:0 !important;
+    width:100% !important;
+    background: rgba(0,0,0,0.4);
+    border-bottom:5px solid rgba(0,0,0,0.4) !important;
+}
+
+.sz-songza-footer {
+    margin:0 !important;
+    padding:0 !important;
+}
+
+#player {
+    background:white;
+}
+.sz-nav li {
+    background:white !important;
+}
+
+#search-query {
+    background: rgba(255,255,255,0.7);
+    color:black;
+    box-shadow: 1px 1px solid black;
+     border: 2px solid black;
+}
+
+.sz-header .szi-nav .szi-auth a{
+    border:2px solid black;
+    padding:7px 10px 8px 10px;
+}
+
+.sz-header .szi-nav .szi-auth .szi-contribute li{
+    border:none !important;
+}
+#search-form {
+    border:none;
+}
+.sz-header .szi-nav .szi-auth .sz-visitor-button a {
+    background:white;
+    padding: 3px 8px 3px 8px;
+}
+.sz-header .szi-contribute {
+    border:none !important;
+}
+body[data-sz-module="concierge"] .sz-nav .szi-nav-concierge a {
+    background: url("http://songza.com/static/3a9f4d09d2f2/images/sites/songza/nav-concierge-inactive.png")  no-repeat center 13px #DDD !important;
+}
+body[data-sz-module="charts"] .sz-nav .szi-nav-popular a {
+    background: url("http://songza.com/static/3a9f4d09d2f2/images/sites/songza/nav-popular-inactive.png")  no-repeat center 13px #DDD !important;
+}
+body[data-sz-module="discover"] .sz-nav .szi-nav-browse a {
+    background: url("http://songza.com/static/3a9f4d09d2f2/images/sites/songza/nav-browse-inactive.png")  no-repeat center 13px #DDD !important;
+}
+
+.nav-tabs li{
+    background: rgba(255,255,255,0.6) !important;
+}
+
+.nav-tabs a{
+    border:none !important;
+    margin-right:none !important;
+}
+.nav-tabs a:hover {
+    background: rgba(195,195,195,1) !important;
+    border:none !important;
+}
+.nav-tabs {
+    border:none !important;
+}
+.sz-gallery-page .szi-gallery-list {
+    background: rgba(255,255,255,0.5) !important;
+    border: 2px solid black !important;
+    border-radius:5px;
+}
+.sz-gallery-page .szi-gallery-list ol li {
+    border-top: 1px solid rgba(0,0,0,0.3) !important;
+    border-bottom: 1px solid rgba(0,0,0,0.3) !important;
+}
+.sz-gallery-page .szi-gallery-list .szi-selected, .sz-gallery-page .szi-gallery-list .szi-selected {
+    background: rgba(15,135,197,0.3) !important;
+}
+.sz-home-authenticated #dashboard-recent .nav {
+    background: rgba(150,150,150,0.5) !important;
+}
+
+.szi-background {
+    display:none !important;
+}
+
+.sz-search-page .szi-header {
+    background: rgba(255,255,255,0.5) !important;
+    padding-left:10px !important;
+    padding-right: 10px !important;
+    border:none !important;
+}
+
+.szi-station-quilt-image img {
+    border: 1px solid black !important;
+}
+
+.szi-image-anchor img {
+    border: 1px solid black !important;
+}
