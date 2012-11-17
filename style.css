@@ -171,3 +171,6 @@ body[data-sz-module="discover"] .sz-nav .szi-nav-browse a {
 .szi-image-anchor img {
     border: 1px solid black !important;
 }
+.sz-header .szi-logo a{
+    background: url("http://nick.mostowich.com/res/bastardizedsongzalogo.png") no-repeat !important;
+}
